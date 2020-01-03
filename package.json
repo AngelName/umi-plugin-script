@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "向umi 生成的 html 文件中注入,script 文件",
   "authors": {
     "name": "bxer",
