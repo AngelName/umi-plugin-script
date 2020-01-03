@@ -1,1 +1,0 @@
-window.abc = 123;
