@@ -1,10 +1,10 @@
 {
   "name": "umi-plugin-script",
   "version": "1.0.0",
-  "description": "",
+  "description": "向umi 生成的 html 文件中注入,script 文件",
   "authors": {
-    "name": "",
-    "email": ""
+    "name": "bxer",
+    "email": "yishidixiashang@gmail.com"
   },
   "repository": "/script",
   "peerDependencies": {
